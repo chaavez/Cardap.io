@@ -73,6 +73,14 @@ body {
   left: 0;
 }
 
+.left .burguer {
+  position: absolute;
+  width: 200px;
+  top: 280px;
+  left: 20px;
+  rotate: z -45deg;
+}
+
 .right img {
   position: absolute;
   width: 240px;
